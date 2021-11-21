@@ -1,7 +1,6 @@
 <script>
-import entry from '$lib/entry.svelte';
-import greeting from '$lib/greeting.svelte';
-import navbar from '$lib/navbar.svelte';
+import Entry from '$lib/entry.svelte';
+import Greeting from '$lib/greeting.svelte';
 </script>
 
 <!-- Entries -->
@@ -13,6 +12,7 @@ import navbar from '$lib/navbar.svelte';
 
     <div class="list-group mb-3">
    	 <!-- Individual Entries -->
+        <entry>
     	<Entry />
    	 
     </div>
