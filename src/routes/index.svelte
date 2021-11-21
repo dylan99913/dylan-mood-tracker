@@ -3,6 +3,8 @@ import Entry from '$lib/entry.svelte';
 import Greeting from '$lib/greeting.svelte';
 </script>
 
+ <Greeting />
+
 <!-- Entries -->
 <section class="container px-4 py-3">
     <div class="d-flex justify-content-between">
