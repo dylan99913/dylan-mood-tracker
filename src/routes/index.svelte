@@ -1,7 +1,7 @@
 <script>
 import Entry from '$lib/entry.svelte';
 import Greeting from '$lib/greeting.svelte';
-</script>
+<script/>
 
  <Greeting />
 
