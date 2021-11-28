@@ -1,7 +1,8 @@
+<script>
 let emoji = "😐"
 
 let emojilist = {worst: '😭',bad: '🙁',okay: '😐',good: '🙂',best: '😁'};
-
+</script>
 
 <div class="modal fade" id="newEntry" tabindex="-1">
     <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
