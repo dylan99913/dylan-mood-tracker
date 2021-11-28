@@ -1,12 +1,12 @@
 <script>
 import Entry from '$lib/Entry.svelte';
 import Greeting from '$lib/Greeting.svelte';
-import  EntryModal from '$lib/entrymodal.svelte';
+import  EntryModal from '$lib/EntryModal.svelte';
 </script>
 
  <Greeting />
 
- <EntryModal />
+ 
  
 <!-- Entries -->
 <section class="container px-4 py-3">
@@ -21,4 +21,8 @@ import  EntryModal from '$lib/entrymodal.svelte';
     	<Entry />
    	 
     </div>
+
+
 </section>
+
+<EntryModal />
