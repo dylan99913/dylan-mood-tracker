@@ -1,6 +1,4 @@
-<script>
-    export let Navbar;
-</script>
+
 
 
 <nav class="navbar navbar-expand-xl navbar-light bg-light">

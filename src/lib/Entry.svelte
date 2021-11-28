@@ -1,7 +1,4 @@
-<script>
-export let Entry;
 
-<script/>
 
 
 <button type="button" class="list-group-item list-group-item-action">

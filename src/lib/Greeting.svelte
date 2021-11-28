@@ -1,6 +1,4 @@
-<script>
-    export let Greeting;
-</script>
+
 
 
 <section class="container px-4 pt-3">
