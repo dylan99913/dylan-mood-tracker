@@ -1,6 +1,6 @@
-var emoji = "😐"
+let emoji = "😐"
 
-var emojilist = worst: '😭',bad: '🙁',okay: '😐',good: '🙂',best: '😁'
+let emojilist = {worst: '😭',bad: '🙁',okay: '😐',good: '🙂',best: '😁'};
 
 
 <div class="modal fade" id="newEntry" tabindex="-1">
